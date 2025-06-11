@@ -10,9 +10,9 @@ We trained mice on a sequence learning task and recorded widefield Ca²⁺ activ
 
 ## Poster
 
-A PDF version of the research poster presented at the UC Riverside Department of Molecular, Cell and Systems Biology Research Symposium is available [here](poster/Cardona_FXS_SequenceLearning_Poster.pdf).
+A PDF version of the research poster presented at the UC Riverside Department of Molecular, Cell and Systems Biology Research Symposium is available [here](Cardona_FXS_SequenceLearning_Poster.pdf).
 
-![Poster Preview](poster/Cardona_FXS_SequenceLearning_Poster.png)
+![Poster Preview](Cardona_FXS_SequenceLearning_Poster.png)
 
 ## Structure
 
