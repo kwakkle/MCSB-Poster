@@ -2,7 +2,7 @@
 
 # Activities of sensory and frontal cortices in sequence learning in Wild Type and FMR1 KO mice
 
-This repository contains code used in our study on sequence learning and cortical dynamics in wild-type and FMR1 knockout mice. This research was a collaborative effort by Sanya Puri, Rvk Cardona, Kat Park, and Dominic Garcia, conducted under the guidance of Dr. Edward Zagha.The project was presented at the UC Riverside Department of Molecular, Cell and Systems Biology Research Symposium.
+This repository contains code used in our study on sequence learning and cortical dynamics in wild-type and FMR1 knockout mice. This research was a collaborative effort by Sanya Puri, Rvk Cardona, Kat Park, and Dominic Garcia, conducted under the guidance of Dr. Edward Zagha. The project was presented at the UC Riverside Department of Molecular, Cell and Systems Biology Research Symposium.
 
 ## Overview
 
