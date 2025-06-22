@@ -14,17 +14,6 @@ A PDF version of the research poster presented at the UC Riverside Department of
 
 ![Poster Preview](poster/Cardona_FXS_SequenceLearning_Poster.png)
 
-## Structure
-
-- `scripts/`: MATLAB scripts for preprocessing, PCA, ANOVA, and visualization.
-- `data/`: (Synthetic/example data only — real data not included)
-- `figures/`: Sample plots of processed Ca²⁺ signals and behavioral metrics.
-
-## Requirements
-
-- MATLAB R2022a or later
-- Statistics and Machine Learning Toolbox
-- Signal Processing Toolbox
 
 ## Author
 
